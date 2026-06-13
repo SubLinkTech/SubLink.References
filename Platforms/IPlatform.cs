@@ -6,7 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace xyz.yewnyx.SubLink.Platforms;
+namespace tech.SubLink.Platforms;
 
 public interface IPlatformRules { }
 
